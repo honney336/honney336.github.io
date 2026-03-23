@@ -11,20 +11,52 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Home"
+  name = "home"
+  pre = "<i class='fa-solid fa-home'></i>"
   pageRef = "/"
   weight = 10
 
 [[main]]
-  name = "Writeups"
-  page = ""
+  name = "whoami??"
+  pre = "<i class='fa-solid fa-id-card'></i>"
+  pageRef = "whoami"
   weight = 20
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "writeups"
+  pre = "<i class='fa-solid fa-folder-open'></i>"
+  pageRef = "writeups"
+  weight = 40
+
+[[main]]
+  name = "projects"
+  pre = "<i class='fa-solid fa-terminal'></i>"
+  pageRef = "projects"
+  weight = 60
+
+[[main]]
+  name = "certifications"
+  pre = "<i class='fa-solid fa-certificate'></i>"
+  pageRef = "certifications"
+  weight = 60
+  
+[[main]]
+  name = "CVE_feed"
+  pre = "<i class='fa-solid fa-bug'></i>"
+  pageRef = "CVE feed"
+  weight = 60
+
+[[main]]
+  name = "tools"
+  pre = "<i class='fa-solid fa-gears'></i>"
+  pageRef = "tools"
+  weight = 60
+
+# [[main]]
+#   name = "example sub-menu 1"
+#   parent = "Parent"
+#   pageRef = "posts"
+#   weight = 20
 
 #[[main]]
 #  name = "example sub-menu 2"
@@ -57,14 +89,3 @@
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
-
-
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
-
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
