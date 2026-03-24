@@ -17,7 +17,7 @@ title = "bitter_honey"
 [params.author]
     name = "bitter_honey"
     email = "bitterhoney44@gmail.com"
-    image = "img/ghost.png"
+    image = "ghost.png"
     imageQuality = 96
     headline = "Finding myself"
     bio = "A little bit about you"
