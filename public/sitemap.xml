@@ -3,17 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/writeups/test/</loc>
+    <loc>https://joshidinesh.com.np/writeups/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/writeups/</loc>
+    <loc>https://joshidinesh.com.np/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
