@@ -1,8 +1,8 @@
 ---
 title: "whoami"
 description: "About Dinesh Joshi"
-date: 2026-03-25
-
+showDate: false
+featureimage: cover.png
 ---
 
 # Whoami
