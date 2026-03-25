@@ -25,7 +25,7 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "Wallpapers/pixel_valley.png" # used as default for background images
+defaultBackgroundImage = "img/pixel_valley.png" # used as default for background images
 #defaultFeaturedImage = "Wallpapers/pixel_valley.png" # used as default for featured images in all articles
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
@@ -52,7 +52,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "Wallpapers/pixel_valley.png" # used in: hero, and card
+  homepageImage = "img/pixel_valley.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = false
@@ -71,7 +71,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showAuthor = true
   # showAuthorBottom = false
   showHero = true
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false

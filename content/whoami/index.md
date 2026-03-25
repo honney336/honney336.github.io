@@ -2,7 +2,9 @@
 title: "whoami"
 description: "About Dinesh Joshi"
 showDate: false
-featureimage: cover.png
+featureimage: cover.jpg
+showHero: true
+heroStyle: background
 ---
 
 # Whoami
