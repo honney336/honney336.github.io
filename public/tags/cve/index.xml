@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CVE on bitter_honey</title>
+    <link>http://localhost:1313/tags/cve/</link>
+    <description>Recent content in CVE on bitter_honey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bitterhoney44@gmail.com (bitter_honey)</managingEditor>
+    <webMaster>bitterhoney44@gmail.com (bitter_honey)</webMaster>
+    <copyright>© 2026 bitter_honey</copyright>
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cve/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Soulmate</title>
+      <link>http://localhost:1313/writeups/hackthebox/soulmate/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>http://localhost:1313/writeups/hackthebox/soulmate/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/hackthebox/soulmate/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

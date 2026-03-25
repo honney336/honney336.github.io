@@ -1,0 +1,31 @@
+# I Love Markdown
+Key Points 
+Convert Markdown to PDF functionality
+Registration page removed (only login available)
+Initial Analysis
+The challenge started with only a login page, without any known credentials. This hinted at the possibility of SQL Injection (SQLi) being the way forward.
+
+At first, I tried common payloads such as:
+'
+'-- -
+'or 1=1--
+But the application did not throw SQL errors. Instead, it only showed “Invalid credentials”. This suggested that the back-end was handling or suppressing SQL errors.
+Exploiting SQLi
+Trying with different payloads only UNION attack works. So the payloads looks like:
+' Union select null,group_concat(username || ' : ' || password) from users-- 
+This web application usages SQLite, so to concate ||  operator is used. Moving forward it gives us a username and password that allowed authentication into the web application.
+
+Post-Login Functionality
+After logging in, the application provided a feature to convert Markdown to PDF.
+To test this, I generated a sample PDF. Upon inspecting its metadata, I noticed that the conversion tool used was wkhtmltopdf.
+
+
+Identifying Vulnerability
+The version of wkhtmltopdf in use was known to be vulnerable to Server-Side Request Forgery (SSRF). Reference: https://www.exploit-db.com/exploits/51039. Additionally, examining the HTML source revealed commented hints suggesting SSRF. The application was running with gunicorn, which by default listens on port 8000.
+
+Exploitation
+Using the SSRF vulnerability in wkhtmltopdf, I crafted a payload to request an internal resource:
+<iframe src="http://localhost:8000/hidden.html" width="800" height="200" > </iframe>
+
+This successfully allowed me to retrieve the flag.
+By combining SQL Injection with SSRF in wkhtmltopdf, the flag was successfully retrieved. Thanks for reading my writeup, and good luck on your own hacking journey
