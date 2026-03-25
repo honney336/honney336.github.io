@@ -2,6 +2,7 @@
 title: "whoami"
 description: "About Dinesh Joshi"
 showDate: false
+type: "list"
 featureimage: "img/bghugo.png"
 ---
 
