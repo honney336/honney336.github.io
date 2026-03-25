@@ -17,7 +17,7 @@ featureimage: "img/bghugo.png"
 
 I am **Dinesh Joshi**, a cybersecurity student pursuing **BSc. (Hons) Ethical Hacking & Cyber Security** at Softwarica College of IT & E-Commerce.  
 
-I specialize in **penetration testing, web exploitation, and network security**, with ongoing learning in **binary exploitation** and **advanced offensive techniques**.  
+My learning and practical work focus on **penetration testing, web exploitation, and network security**, while actively expanding knowledge in **binary exploitation** and **advanced offensive techniques**. 
 
 **Core Focus Areas:**  
 - Web Application Penetration Testing  
