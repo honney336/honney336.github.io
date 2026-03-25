@@ -61,6 +61,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
+  layoutBackgroundHeaderSpace = true
 
 [article]
   showDate = true
