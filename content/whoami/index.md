@@ -4,7 +4,6 @@ description: "About Dinesh Joshi"
 showDate: false
 featureimage: "img/bghugo.png"
 ---
-
 # Whoami
 
 **Name:** Dinesh Joshi  
