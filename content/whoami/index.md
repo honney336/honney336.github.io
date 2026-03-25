@@ -4,6 +4,9 @@ description: "About Dinesh Joshi"
 showDate: false
 type: "list"
 featureimage: "img/bghugo.png"
+showHero: true
+heroStyle: background
+layoutBackgroundHeaderSpace: false
 ---
 
 **Name:** Dinesh Joshi  
