@@ -38,7 +38,7 @@ defaultFeaturedImage = "img/banner.png" # used as default for featured images in
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/ghibli.png" # used in: hero, and card
+  homepageImage = "img/ghibli.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = false
