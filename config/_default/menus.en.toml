@@ -23,7 +23,6 @@
 
 [[main]]
   name = "whoami"
- # parent = "Parent"
   pageRef = "whoami"
   weight = 20
 
