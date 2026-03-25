@@ -2,12 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tryhackme on bitter_honey</title>
-    <link>https://joshidinesh.com.np/writeups/tryhackme/</link>
+    <link>http://localhost:1313/writeups/tryhackme/</link>
     <description>Recent content in Tryhackme on bitter_honey</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>bitterhoney44@gmail.com (bitter_honey)</managingEditor>
     <webMaster>bitterhoney44@gmail.com (bitter_honey)</webMaster>
-    <atom:link href="https://joshidinesh.com.np/writeups/tryhackme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/writeups/tryhackme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/writeups/tryhackme/lookup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>http://localhost:1313/writeups/tryhackme/lookup/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

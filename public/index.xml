@@ -2,33 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bitter_honey</title>
-    <link>https://joshidinesh.com.np/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on bitter_honey</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>bitterhoney44@gmail.com (bitter_honey)</managingEditor>
     <webMaster>bitterhoney44@gmail.com (bitter_honey)</webMaster>
     <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://joshidinesh.com.np/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PenTester Nepal CTF Writeups</title>
-      <link>https://joshidinesh.com.np/writeups/ctfs/pentester-nepal-writeups/</link>
+      <link>http://localhost:1313/writeups/ctfs/pentester-nepal-writeups/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>https://joshidinesh.com.np/writeups/ctfs/pentester-nepal-writeups/</guid>
+      <guid>http://localhost:1313/writeups/ctfs/pentester-nepal-writeups/</guid>
       <description></description>
     </item>
     <item>
       <title>Soulmate</title>
-      <link>https://joshidinesh.com.np/writeups/hackthebox/soulmate/</link>
+      <link>http://localhost:1313/writeups/hackthebox/soulmate/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>https://joshidinesh.com.np/writeups/hackthebox/soulmate/</guid>
+      <guid>http://localhost:1313/writeups/hackthebox/soulmate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/writeups/tryhackme/lookup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>http://localhost:1313/writeups/tryhackme/lookup/</guid>
       <description></description>
     </item>
     <item>
       <title>whoami</title>
-      <link>https://joshidinesh.com.np/whoami/</link>
+      <link>http://localhost:1313/whoami/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>https://joshidinesh.com.np/whoami/</guid>
+      <guid>http://localhost:1313/whoami/</guid>
       <description></description>
     </item>
   </channel>

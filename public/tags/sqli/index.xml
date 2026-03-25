@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SQLi on bitter_honey</title>
-    <link>https://joshidinesh.com.np/tags/sqli/</link>
+    <link>http://localhost:1313/tags/sqli/</link>
     <description>Recent content in SQLi on bitter_honey</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>bitterhoney44@gmail.com (bitter_honey)</managingEditor>
     <webMaster>bitterhoney44@gmail.com (bitter_honey)</webMaster>
     <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://joshidinesh.com.np/tags/sqli/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sqli/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PenTester Nepal CTF Writeups</title>
-      <link>https://joshidinesh.com.np/writeups/ctfs/pentester-nepal-writeups/</link>
+      <link>http://localhost:1313/writeups/ctfs/pentester-nepal-writeups/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>https://joshidinesh.com.np/writeups/ctfs/pentester-nepal-writeups/</guid>
+      <guid>http://localhost:1313/writeups/ctfs/pentester-nepal-writeups/</guid>
       <description></description>
     </item>
   </channel>
