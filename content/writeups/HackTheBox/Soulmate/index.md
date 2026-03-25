@@ -92,23 +92,19 @@ ftp                     [Status: 302, Size: 0, Words: 1, Lines: 1, Duration: 414
 
 The application exposes a subdomain, <mark style="color:$success;">ftp.soulmate.htb</mark>, which is running the <mark style="color:$info;">CrushFTP</mark> service. This version is vulnerable to an authentication bypass tracked as <mark style="color:$info;">CVE-2025-31161</mark>.
 
-{% embed url="<https://www.huntress.com/blog/crushftp-cve-2025-31161-auth-bypass-and-post-exploitation>" %}
+[Huntress.com](https://www.huntress.com/blog/crushftp-cve-2025-31161-auth-bypass-and-post-exploitation)
 
 <figure><img src="https://3488839997-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fiu5VPR3BNQ2pXa8kgTek%2Fuploads%2F1ixeIqkQHQb6GY4EHGr2%2Fimage.png?alt=media&#x26;token=2c52a2eb-3778-40f1-856c-9a8e9b0c9269" alt=""><figcaption><p>Version Detection</p></figcaption></figure>
 
 ### Auth Bypass
 
-{% embed url="<https://github.com/Immersive-Labs-Sec/CVE-2025-31161>" %}
+[CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161)
 
 This GitHub repo provides a complete PoC for the CVE, so I used it to create an admin user.
-
-{% code overflow="wrap" %}
 
 ```
 python3 cve-2025-31161.py --target_host ftp.soulmate.htb --port 80 --target_user crushadmin --new_user bitter --password bitter 
 ```
-
-{% endcode %}
 
 After creating the admin user, you can log in with the new credentials. During further enumeration, I found a user named <mark style="color:$primary;">ben</mark> associated with the <mark style="color:$info;">webProd</mark> directory. From the admin panel, it’s also possible to generate (reset) a password for <mark style="color:$primary;">ben</mark> and log in to that account.
 
