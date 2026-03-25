@@ -4,4 +4,5 @@ description: "A collection of writeups of different rooms, challenges and machin
 type: "list"
 hidemeta: true
 showDate: false
+featureimage: cover.png
 ---
