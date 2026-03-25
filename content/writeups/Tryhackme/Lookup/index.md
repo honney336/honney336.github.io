@@ -13,7 +13,6 @@ categories:
 - Writeups
 
 showAuthor: true
-showDate: true
 showReadingTime: true
 showWordCount: true
 showTableOfContents: true
