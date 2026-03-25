@@ -38,7 +38,7 @@ defaultFeaturedImage = "img/banner.png" # used as default for featured images in
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/bghugo.png" # used in: hero, and card
+  homepageImage = "img/ghibli.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = false
@@ -121,13 +121,13 @@ defaultFeaturedImage = "img/banner.png" # used as default for featured images in
   cardViewScreenWidth = false
 
 [firebase]
-  apiKey = "AIzaSyCJ2hyb8e5OUJWC4V_IDcToGATbnIdG6mc"
-  authDomain = "blowfish-ae2ee.firebaseapp.com"
-  projectId = "blowfish-ae2ee"
-  storageBucket = "blowfish-ae2ee.firebasestorage.app"
-  messagingSenderId = "133060723705"
-  appId = "1:133060723705:web:817dde89527c3e7e37b328"
-  measurementId = "G-XML6N501Q5"
+  #apiKey = "XXX"
+  #authDomain = "XxX"
+  #projectId = "XXX"
+  #storageBucket = "XXX
+  #messagingSenderId = "XXX"
+  #appId = "XXX"
+  #measurementId = "XXX"
 
 [fathomAnalytics]
   # site = "ABC12345"
