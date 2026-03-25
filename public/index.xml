@@ -2,44 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bitter_honey</title>
-    <link>http://localhost:1313/</link>
+    <link>https://joshidinesh.com.np/</link>
     <description>Recent content on bitter_honey</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>bitterhoney44@gmail.com (bitter_honey)</managingEditor>
     <webMaster>bitterhoney44@gmail.com (bitter_honey)</webMaster>
-    <copyright>© 2026 bitter_honey</copyright>
-    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>whoami</title>
-      <link>http://localhost:1313/whoami/</link>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-      <author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>http://localhost:1313/whoami/</guid>
-      <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://joshidinesh.com.np/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PTN CTF Writeups</title>
-      <link>http://localhost:1313/writeups/ctfs/pentester-nepal-writeups/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>http://localhost:1313/writeups/ctfs/pentester-nepal-writeups/</guid>
+      <link>https://joshidinesh.com.np/writeups/ctfs/pentester-nepal-writeups/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>https://joshidinesh.com.np/writeups/ctfs/pentester-nepal-writeups/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/ctfs/pentester-nepal-writeups/featured%20copy.png" />
     </item>
-    
     <item>
       <title>Soulmate</title>
-      <link>http://localhost:1313/writeups/hackthebox/soulmate/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>http://localhost:1313/writeups/hackthebox/soulmate/</guid>
+      <link>https://joshidinesh.com.np/writeups/hackthebox/soulmate/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>https://joshidinesh.com.np/writeups/hackthebox/soulmate/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/hackthebox/soulmate/featured.png" />
     </item>
-    
+    <item>
+      <title>whoami</title>
+      <link>https://joshidinesh.com.np/whoami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>https://joshidinesh.com.np/whoami/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

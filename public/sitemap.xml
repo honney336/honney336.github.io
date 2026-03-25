@@ -1,46 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/whoami/</loc>
-    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/writeups/ctfs/</loc>
+    <loc>https://joshidinesh.com.np/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/writeups/hackthebox/</loc>
+  </url><url>
+    <loc>https://joshidinesh.com.np/categories/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/writeups/ctfs/pentester-nepal-writeups/</loc>
+  </url><url>
+    <loc>https://joshidinesh.com.np/tags/command-injection/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/writeups/hackthebox/soulmate/</loc>
+  </url><url>
+    <loc>https://joshidinesh.com.np/tags/ctf/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/writeups/</loc>
+  </url><url>
+    <loc>https://joshidinesh.com.np/writeups/ctfs/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/tags/cve/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/tags/easy/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/tags/hackthebox/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/writeups/hackthebox/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/tags/ptn/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/writeups/ctfs/pentester-nepal-writeups/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/writeups/hackthebox/soulmate/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/tags/sqli/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/tags/ssrf/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/tags/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/tags/web/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/categories/writeups/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/writeups/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/series/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/writeups/tryhackme/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://joshidinesh.com.np/whoami/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

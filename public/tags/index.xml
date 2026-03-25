@@ -2,104 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on bitter_honey</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://joshidinesh.com.np/tags/</link>
     <description>Recent content in Tags on bitter_honey</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>bitterhoney44@gmail.com (bitter_honey)</managingEditor>
     <webMaster>bitterhoney44@gmail.com (bitter_honey)</webMaster>
-    <copyright>© 2026 bitter_honey</copyright>
-    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://joshidinesh.com.np/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Command Injection</title>
-      <link>http://localhost:1313/tags/command-injection/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>http://localhost:1313/tags/command-injection/</guid>
+      <link>https://joshidinesh.com.np/tags/command-injection/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>https://joshidinesh.com.np/tags/command-injection/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>CTF</title>
-      <link>http://localhost:1313/tags/ctf/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>http://localhost:1313/tags/ctf/</guid>
+      <link>https://joshidinesh.com.np/tags/ctf/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>https://joshidinesh.com.np/tags/ctf/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>CVE</title>
-      <link>http://localhost:1313/tags/cve/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>http://localhost:1313/tags/cve/</guid>
+      <link>https://joshidinesh.com.np/tags/cve/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>https://joshidinesh.com.np/tags/cve/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Easy</title>
-      <link>http://localhost:1313/tags/easy/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>http://localhost:1313/tags/easy/</guid>
+      <link>https://joshidinesh.com.np/tags/easy/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>https://joshidinesh.com.np/tags/easy/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>HackTheBox</title>
-      <link>http://localhost:1313/tags/hackthebox/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>http://localhost:1313/tags/hackthebox/</guid>
+      <link>https://joshidinesh.com.np/tags/hackthebox/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>https://joshidinesh.com.np/tags/hackthebox/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>PTN</title>
-      <link>http://localhost:1313/tags/ptn/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>http://localhost:1313/tags/ptn/</guid>
+      <link>https://joshidinesh.com.np/tags/ptn/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>https://joshidinesh.com.np/tags/ptn/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>SQLi</title>
-      <link>http://localhost:1313/tags/sqli/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>http://localhost:1313/tags/sqli/</guid>
+      <link>https://joshidinesh.com.np/tags/sqli/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>https://joshidinesh.com.np/tags/sqli/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>SSRF</title>
-      <link>http://localhost:1313/tags/ssrf/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>http://localhost:1313/tags/ssrf/</guid>
+      <link>https://joshidinesh.com.np/tags/ssrf/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>https://joshidinesh.com.np/tags/ssrf/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Web</title>
-      <link>http://localhost:1313/tags/web/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <author>bitterhoney44@gmail.com (bitter_honey)</author>
-      <guid>http://localhost:1313/tags/web/</guid>
+      <link>https://joshidinesh.com.np/tags/web/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><author>bitterhoney44@gmail.com (bitter_honey)</author>
+      <guid>https://joshidinesh.com.np/tags/web/</guid>
       <description></description>
-      
     </item>
-    
   </channel>
 </rss>

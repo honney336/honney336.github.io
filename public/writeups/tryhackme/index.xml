@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tryhackme on bitter_honey</title>
+    <link>https://joshidinesh.com.np/writeups/tryhackme/</link>
+    <description>Recent content in Tryhackme on bitter_honey</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>bitterhoney44@gmail.com (bitter_honey)</managingEditor>
+    <webMaster>bitterhoney44@gmail.com (bitter_honey)</webMaster>
+    <atom:link href="https://joshidinesh.com.np/writeups/tryhackme/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
