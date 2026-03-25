@@ -1,5 +1,23 @@
 ---
+title: "Lookup"
+showDate: false
+draft: false
 
+tags:
+- CVE
+- Tryhackme
+- Easy
+
+
+categories:
+- Writeups
+
+showAuthor: true
+showDate: true
+showReadingTime: true
+showWordCount: true
+showTableOfContents: true
+showTaxonomies: true
 ---
 
 # Lookup
