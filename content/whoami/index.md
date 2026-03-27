@@ -51,7 +51,7 @@ HackTheBox, TryHackMe, GitHub – active in labs, writeups, and challenges.
 |---------------|--------|
 | Certified Cybersecurity Educator Professional (CCEP) | ✅ Completed |
 | Certified Red Team Operations Management (CRTOM) | ✅ Completed |
-| ACP (APIsec Certified Practitioner) | 🔄 In Progress |
+| ACP (APIsec Certified Practitioner) | ✅ Completed |
 | CPTS (Certified Penetration Testing Specialist) | 🎯 Planned |
 
 ---
