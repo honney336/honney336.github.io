@@ -70,7 +70,7 @@ HackTheBox, TryHackMe, GitHub – active in labs, writeups, and challenges.
 
 ## Connect
 
-- Email: `bitterhoney44@gmail.com`  
+- Email: connectme@joshidinesh.com.np  
 - Discord: [bitter!honey](https://discord.com/users/1334359578141523968)
 - LinkedIn: [Dinesh Joshi](https://www.linkedin.com/in/dinesh-joshi-25b407318)  
 
