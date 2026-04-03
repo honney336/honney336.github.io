@@ -11,7 +11,7 @@ layoutBackgroundHeaderSpace: false
 
 **Name:** Dinesh Joshi  
 **Alias:** `bitter_honey`  
-**Role:** Web & Network Pentester | Aspiring Binary Exploitation Specialist  
+**Role:** Web & Network Pentester | Learning Binary Exploitation  
 
 ---
 
